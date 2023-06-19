@@ -60,4 +60,3 @@ c.bind('<Leave>', hide_happy)
 root.mainloop()
 
 
-
